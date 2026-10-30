@@ -1,0 +1,8 @@
+build_id	hardware	channel	version	requires_attestation
+B-A100	HX1	stable	1.2.0	YES
+B-A110	HX1	stable	1.3.0	YES
+B-A120	HX1	stable	1.4.0	YES
+B-F200	HX1	field	2.0.0	NO
+B-K300	HX2	stable	3.0.0	YES
+B-K310	HX2	stable	3.1.0	YES
+B-L400	HX3	stable	1.0.0	YES
