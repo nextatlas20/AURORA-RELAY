@@ -1,0 +1,7 @@
+device_id	site	hardware	channel	installed_build
+R-01	North Pass	HX1	stable	B-A100
+R-02	North Pass	HX1	stable	B-A110
+R-03	Ridge Camp	HX1	field	B-F200
+R-04	Ridge Camp	HX2	stable	B-K300
+R-05	Delta Point	HX2	stable	B-K310
+R-06	Delta Point	HX3	stable	B-L400
